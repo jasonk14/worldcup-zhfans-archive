@@ -1,2 +1,14 @@
 # worldcup-zhfans-archive
-HTML page archive and documentation
+
+HTML 资料页存档
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 使用说明
+
+如需查看页面内容，请打开对应的 HTML 文件或 Pages 地址。
